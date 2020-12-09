@@ -1,5 +1,3 @@
-package comp;
-
 public class Mydate {
 	private int day;
 	private int month;
