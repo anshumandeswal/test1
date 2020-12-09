@@ -41,11 +41,6 @@ public class Mydate {
 	}
 	
 	
-	@Override
-	public String toString() {
-		return "Mydate [day=" + day + ", month=" + month + ", year=" + year + "]";
-	}
-
 	public void display() {
 		System.out.println(day + "/" + month + "/" + year);
 	}
